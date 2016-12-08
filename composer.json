@@ -1,15 +1,15 @@
 {
-    "name": "tanliGit/tanlitest",
-    "description": "Yii2 tanliGit tanlitest",
+    "name": "tanligit/tanlitest",
+    "description": "yii2 tanligit tanlitest",
     "keywords": [
         "yii2",
         "tanlitest"
     ],
-    "homepage": "https://github.com/tanliGit/tanlitest",
+    "homepage": "https://github.com/tanligit/tanlitest",
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "source": "https://github.com/tanliGit/tanlitest"
+        "source": "https://github.com/tanligit/tanlitest"
     },
     "authors": [
         {
