@@ -1,6 +1,6 @@
 {
     "name": "tanliGit/tanlitest",
-    "description": "Yii2 tanliGit terrytest",
+    "description": "Yii2 tanliGit tanlitest",
     "keywords": [
         "yii2",
         "tanlitest"
@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "tanli",
-            "email": "471881161@qq..com"
+            "email": "471881161@qq.com"
         }
     ],
     "minimum-stability": "stable",
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "terry\\": ""
+            "tanli\\": ""
         }
     },
     "config": {
